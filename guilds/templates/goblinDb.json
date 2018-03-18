@@ -1,0 +1,20 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Goblin DB",
+    "motto" : "Fear the Goblin¡ An amazing, simple and fun database for humans",
+    "projects" : [ 
+        {
+            "name" : "Goblin DB",
+            "motto" : "Fear the Goblin¡ An amazing, simple and fun database for humans",
+            "stack" : [ 
+                "nodejs", 
+                "javascript"
+            ],
+            "wanted" : [ 
+                "Se busca..."
+            ],
+            "status" : 0,
+            "repo" : "https://github.com/GoblinDBRocks/GoblinDB"
+        }
+    ]
+}

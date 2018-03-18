@@ -47,9 +47,9 @@ Está en proceso de salir a producción con la versión 13, con un montón de co
 - @Sebastiancbvz - líder
 - [@UlisesGascon](https://github.com/UlisesGascon) - co-líder
 - [@codingCarlos](https://github.com/codingCarlos) - co-líder
-- @Santiago 
+- [@Santiago](https://github.com/trigoporres)
 - @alvarogtx300 
-- @drewler 
+- [@drewler](https://github.com/drewler)
 - [@Lilxelo](https://github.com/lilxelo)
 - [@Bifuer](https://github.com/bifuer)
 
