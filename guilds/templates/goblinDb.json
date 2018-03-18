@@ -7,8 +7,7 @@
             "name" : "Goblin DB",
             "motto" : "Fear the Goblin¡ An amazing, simple and fun database for humans",
             "stack" : [ 
-                "nodejs", 
-                "javascript"
+                "nodejs"                
             ],
             "wanted" : [ 
                 "Se busca..."
